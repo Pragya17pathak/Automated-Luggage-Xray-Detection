@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+dataset/
+runs/
+uploads/
+app_backup*.py
+yolov8n.pt
+results/*
+!results/xray_detector_exp_recall/
+results/xray_detector_exp_recall/*
+!results/xray_detector_exp_recall/weights/
+results/xray_detector_exp_recall/weights/*
+!results/xray_detector_exp_recall/weights/best.pt

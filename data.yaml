@@ -1,0 +1,15 @@
+
+path: "C:/Users/hp/Downloads/archive (13)/sixray_v3"
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 5
+
+names:
+  0: Gun
+  1: Knife
+  2: Pliers
+  3: Scissors
+  4: Wrench
